@@ -1,0 +1,6 @@
+----------------Starting verifyLoginWithInvalidCredentials Test-------------------
+Clicked on sign in and object is : [[ChromeDriver: chrome on XP (0b184a35177d144bc752bb7290b68afb)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enter email address test@gmail.com and object is : [[ChromeDriver: chrome on XP (0b184a35177d144bc752bb7290b68afb)] -> xpath: .//*[@id='email']]
+Enter passwordpassword123 and object is : [[ChromeDriver: chrome on XP (0b184a35177d144bc752bb7290b68afb)] -> xpath: .//*[@id='passwd']]
+Clicked on submit button and the object is : [[ChromeDriver: chrome on XP (0b184a35177d144bc752bb7290b68afb)] -> id: SubmitLogin]
+----------------Finished verifyLoginWithInvalidCredentials Test-------------------

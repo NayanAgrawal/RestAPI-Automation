@@ -1,0 +1,166 @@
+2017-12-31 13:09:44 INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ----------------Starting verifyLoginWithInvalidCredentials Test-------------------
+2017-12-31 13:09:47 INFO  TC001_VerifyLoginWithInvalidCredentials:39 - Clicked on sign in and object is : [[ChromeDriver: chrome on XP (21934fd5da86ce144f6ef2e0acc63309)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-31 13:09:48 INFO  TC001_VerifyLoginWithInvalidCredentials:41 - Enter email address test@gmail.com and object is : [[ChromeDriver: chrome on XP (21934fd5da86ce144f6ef2e0acc63309)] -> xpath: .//*[@id='email']]
+2017-12-31 13:09:48 INFO  TC001_VerifyLoginWithInvalidCredentials:43 - Enter passwordpassword123 and object is : [[ChromeDriver: chrome on XP (21934fd5da86ce144f6ef2e0acc63309)] -> xpath: .//*[@id='passwd']]
+2017-12-31 13:09:50 INFO  TC001_VerifyLoginWithInvalidCredentials:45 - Clicked on submit button and the object is : [[ChromeDriver: chrome on XP (21934fd5da86ce144f6ef2e0acc63309)] -> id: SubmitLogin]
+2017-12-31 13:09:50 INFO  TC001_VerifyLoginWithInvalidCredentials:33 - ----------------Finished verifyLoginWithInvalidCredentials Test-------------------
+2017-12-31 15:32:17 INFO  TC002_verifyRegistration:26 - ----------------Starting verifyLoginWithInvalidCredentials Test-------------------
+2017-12-31 15:32:18 INFO  TC001_VerifyLoginWithInvalidCredentials:101 - Enter First Name and object is : Test
+2017-12-31 15:32:19 INFO  TC001_VerifyLoginWithInvalidCredentials:104 - Enter Last Name and object is : lastName
+2017-12-31 15:32:19 INFO  TC001_VerifyLoginWithInvalidCredentials:108 - Enter Address and object is : address
+2017-12-31 15:32:20 INFO  TC001_VerifyLoginWithInvalidCredentials:112 - Enter Email Address and object is : emailAddress@gmail.com
+2017-12-31 15:32:21 INFO  TC001_VerifyLoginWithInvalidCredentials:116 - Enter Phone Number and object is : 155151
+2017-12-31 15:32:21 INFO  TC001_VerifyLoginWithInvalidCredentials:119 - Select gender and object is : [[ChromeDriver: chrome on XP (b67a9064d5849e9ee110f3e4a56c82fa)] -> xpath: //*[@id='basicBootstrapForm']/div[5]/div/label[1]/input]
+2017-12-31 15:32:22 INFO  TC001_VerifyLoginWithInvalidCredentials:122 - Select Country and object is : [[ChromeDriver: chrome on XP (b67a9064d5849e9ee110f3e4a56c82fa)] -> xpath: //*[@id='countries']/option[@value='India']]
+2017-12-31 15:32:22 INFO  TC001_VerifyLoginWithInvalidCredentials:125 - Select Year and object is : [[ChromeDriver: chrome on XP (b67a9064d5849e9ee110f3e4a56c82fa)] -> xpath: //*[@id='yearbox']/option[@value='1992']]
+2017-12-31 15:32:22 INFO  TC001_VerifyLoginWithInvalidCredentials:127 - Select month and object is : [[ChromeDriver: chrome on XP (b67a9064d5849e9ee110f3e4a56c82fa)] -> xpath: .//*[@id='basicBootstrapForm']/div[11]/div[2]/select/option[@value='4']]
+2017-12-31 15:32:22 INFO  TC001_VerifyLoginWithInvalidCredentials:129 - Select date and object is : [[ChromeDriver: chrome on XP (b67a9064d5849e9ee110f3e4a56c82fa)] -> xpath: //*[@id='daybox']/option[@value='30']]
+2017-12-31 15:32:23 INFO  TC001_VerifyLoginWithInvalidCredentials:133 - Enter paassword and object is : Password@123
+2017-12-31 15:32:23 INFO  TC001_VerifyLoginWithInvalidCredentials:137 - Enter paassword and object is : Password@123
+2017-12-31 15:32:24 INFO  TC001_VerifyLoginWithInvalidCredentials:140 - Submitted and object is : [[ChromeDriver: chrome on XP (b67a9064d5849e9ee110f3e4a56c82fa)] -> xpath: //*[@id='submitbtn']]
+2017-12-31 15:32:24 INFO  TC001_VerifyLoginWithInvalidCredentials:146 - Registration resultis - WebTable
+2017-12-31 15:35:56 INFO  TC002_verifyRegistration:26 - ----------------Starting verifyLoginWithInvalidCredentials Test-------------------
+2017-12-31 15:35:56 INFO  TC001_VerifyLoginWithInvalidCredentials:101 - Enter First Name and object is : Test
+2017-12-31 15:35:57 INFO  TC001_VerifyLoginWithInvalidCredentials:104 - Enter Last Name and object is : lastName
+2017-12-31 15:35:57 INFO  TC001_VerifyLoginWithInvalidCredentials:108 - Enter Address and object is : address
+2017-12-31 15:35:58 INFO  TC001_VerifyLoginWithInvalidCredentials:112 - Enter Email Address and object is : emailAddress@gmail.com
+2017-12-31 15:35:58 INFO  TC001_VerifyLoginWithInvalidCredentials:116 - Enter Phone Number and object is : 155151
+2017-12-31 15:35:58 INFO  TC001_VerifyLoginWithInvalidCredentials:119 - Select gender and object is : [[ChromeDriver: chrome on XP (067ec25bca4bdbbb2e9a5aa3597c5e1e)] -> xpath: //*[@id='basicBootstrapForm']/div[5]/div/label[1]/input]
+2017-12-31 15:35:59 INFO  TC001_VerifyLoginWithInvalidCredentials:122 - Select Country and object is : [[ChromeDriver: chrome on XP (067ec25bca4bdbbb2e9a5aa3597c5e1e)] -> xpath: //*[@id='countries']/option[@value='India']]
+2017-12-31 15:35:59 INFO  TC001_VerifyLoginWithInvalidCredentials:125 - Select Year and object is : [[ChromeDriver: chrome on XP (067ec25bca4bdbbb2e9a5aa3597c5e1e)] -> xpath: //*[@id='yearbox']/option[@value='1992']]
+2017-12-31 15:35:59 INFO  TC001_VerifyLoginWithInvalidCredentials:127 - Select month and object is : [[ChromeDriver: chrome on XP (067ec25bca4bdbbb2e9a5aa3597c5e1e)] -> xpath: .//*[@id='basicBootstrapForm']/div[11]/div[2]/select/option[@value='4']]
+2017-12-31 15:35:59 INFO  TC001_VerifyLoginWithInvalidCredentials:129 - Select date and object is : [[ChromeDriver: chrome on XP (067ec25bca4bdbbb2e9a5aa3597c5e1e)] -> xpath: //*[@id='daybox']/option[@value='30']]
+2017-12-31 15:35:59 INFO  TC001_VerifyLoginWithInvalidCredentials:133 - Enter paassword and object is : Password@123
+2017-12-31 15:36:00 INFO  TC001_VerifyLoginWithInvalidCredentials:137 - Enter paassword and object is : Password@123
+2017-12-31 15:36:00 INFO  TC001_VerifyLoginWithInvalidCredentials:140 - Submitted and object is : [[ChromeDriver: chrome on XP (067ec25bca4bdbbb2e9a5aa3597c5e1e)] -> xpath: //*[@id='submitbtn']]
+2017-12-31 15:36:00 INFO  TC001_VerifyLoginWithInvalidCredentials:146 - Registration resultis - WebTable
+2017-12-31 15:38:43 INFO  TC002_verifyRegistration:26 - ----------------Starting verifyLoginWithInvalidCredentials Test-------------------
+2017-12-31 15:38:44 INFO  TC001_VerifyLoginWithInvalidCredentials:101 - Enter First Name and object is : Test
+2017-12-31 15:38:44 INFO  TC001_VerifyLoginWithInvalidCredentials:104 - Enter Last Name and object is : lastName
+2017-12-31 15:38:45 INFO  TC001_VerifyLoginWithInvalidCredentials:108 - Enter Address and object is : address
+2017-12-31 15:38:46 INFO  TC001_VerifyLoginWithInvalidCredentials:112 - Enter Email Address and object is : emailAddress@gmail.com
+2017-12-31 15:38:46 INFO  TC001_VerifyLoginWithInvalidCredentials:116 - Enter Phone Number and object is : 155151
+2017-12-31 15:38:46 INFO  TC001_VerifyLoginWithInvalidCredentials:119 - Select gender and object is : [[ChromeDriver: chrome on XP (51ed33bd070f19319930b633643a281b)] -> xpath: //*[@id='basicBootstrapForm']/div[5]/div/label[1]/input]
+2017-12-31 15:38:47 INFO  TC001_VerifyLoginWithInvalidCredentials:122 - Select Country and object is : [[ChromeDriver: chrome on XP (51ed33bd070f19319930b633643a281b)] -> xpath: //*[@id='countries']/option[@value='India']]
+2017-12-31 15:38:47 INFO  TC001_VerifyLoginWithInvalidCredentials:125 - Select Year and object is : [[ChromeDriver: chrome on XP (51ed33bd070f19319930b633643a281b)] -> xpath: //*[@id='yearbox']/option[@value='1992']]
+2017-12-31 15:38:47 INFO  TC001_VerifyLoginWithInvalidCredentials:127 - Select month and object is : [[ChromeDriver: chrome on XP (51ed33bd070f19319930b633643a281b)] -> xpath: .//*[@id='basicBootstrapForm']/div[11]/div[2]/select/option[@value='4']]
+2017-12-31 15:38:47 INFO  TC001_VerifyLoginWithInvalidCredentials:129 - Select date and object is : [[ChromeDriver: chrome on XP (51ed33bd070f19319930b633643a281b)] -> xpath: //*[@id='daybox']/option[@value='30']]
+2017-12-31 15:38:48 INFO  TC001_VerifyLoginWithInvalidCredentials:133 - Enter paassword and object is : Password@123
+2017-12-31 15:38:48 INFO  TC001_VerifyLoginWithInvalidCredentials:137 - Enter paassword and object is : Password@123
+2017-12-31 15:38:49 INFO  TC001_VerifyLoginWithInvalidCredentials:140 - Submitted and object is : [[ChromeDriver: chrome on XP (51ed33bd070f19319930b633643a281b)] -> xpath: //*[@id='submitbtn']]
+2017-12-31 15:38:49 INFO  TC001_VerifyLoginWithInvalidCredentials:146 - Registration resultis - WebTable
+2017-12-31 15:40:50 INFO  TC002_verifyRegistration:26 - ----------------Starting verifyLoginWithInvalidCredentials Test-------------------
+2017-12-31 15:40:50 INFO  TC001_VerifyLoginWithInvalidCredentials:101 - Enter First Name and object is : Test
+2017-12-31 15:40:51 INFO  TC001_VerifyLoginWithInvalidCredentials:104 - Enter Last Name and object is : lastName
+2017-12-31 15:40:51 INFO  TC001_VerifyLoginWithInvalidCredentials:108 - Enter Address and object is : address
+2017-12-31 15:40:52 INFO  TC001_VerifyLoginWithInvalidCredentials:112 - Enter Email Address and object is : emailAddress@gmail.com
+2017-12-31 15:40:52 INFO  TC001_VerifyLoginWithInvalidCredentials:116 - Enter Phone Number and object is : 155151
+2017-12-31 15:40:53 INFO  TC001_VerifyLoginWithInvalidCredentials:119 - Select gender and object is : [[ChromeDriver: chrome on XP (576f51597f0a83bc751a41d55079ec30)] -> xpath: //*[@id='basicBootstrapForm']/div[5]/div/label[1]/input]
+2017-12-31 15:40:53 INFO  TC001_VerifyLoginWithInvalidCredentials:122 - Select Country and object is : [[ChromeDriver: chrome on XP (576f51597f0a83bc751a41d55079ec30)] -> xpath: //*[@id='countries']/option[@value='India']]
+2017-12-31 15:40:53 INFO  TC001_VerifyLoginWithInvalidCredentials:125 - Select Year and object is : [[ChromeDriver: chrome on XP (576f51597f0a83bc751a41d55079ec30)] -> xpath: //*[@id='yearbox']/option[@value='1992']]
+2017-12-31 15:40:53 INFO  TC001_VerifyLoginWithInvalidCredentials:127 - Select month and object is : [[ChromeDriver: chrome on XP (576f51597f0a83bc751a41d55079ec30)] -> xpath: .//*[@id='basicBootstrapForm']/div[11]/div[2]/select/option[@value='4']]
+2017-12-31 15:40:53 INFO  TC001_VerifyLoginWithInvalidCredentials:129 - Select date and object is : [[ChromeDriver: chrome on XP (576f51597f0a83bc751a41d55079ec30)] -> xpath: //*[@id='daybox']/option[@value='30']]
+2017-12-31 15:40:54 INFO  TC001_VerifyLoginWithInvalidCredentials:133 - Enter paassword and object is : Password@123
+2017-12-31 15:40:54 INFO  TC001_VerifyLoginWithInvalidCredentials:137 - Enter paassword and object is : Password@123
+2017-12-31 15:40:55 INFO  TC001_VerifyLoginWithInvalidCredentials:140 - Submitted and object is : [[ChromeDriver: chrome on XP (576f51597f0a83bc751a41d55079ec30)] -> xpath: //*[@id='submitbtn']]
+2017-12-31 15:40:55 INFO  TC001_VerifyLoginWithInvalidCredentials:146 - Registration resultis - WebTable
+2017-12-31 15:40:55 INFO  TC002_verifyRegistration:33 - ----------------Finished verifyRegistrationSuccess Test-------------------
+2017-12-31 15:46:33 INFO  TC002_verifyRegistration:26 - ----------------Starting verifyLoginWithInvalidCredentials Test-------------------
+2017-12-31 15:46:34 INFO  TC001_VerifyLoginWithInvalidCredentials:102 - Enter First Name and object is : Test
+2017-12-31 15:46:34 INFO  TC001_VerifyLoginWithInvalidCredentials:105 - Enter Last Name and object is : lastName
+2017-12-31 15:46:35 INFO  TC001_VerifyLoginWithInvalidCredentials:109 - Enter Address and object is : address
+2017-12-31 15:46:36 INFO  TC001_VerifyLoginWithInvalidCredentials:113 - Enter Email Address and object is : emailAddress@gmail.com
+2017-12-31 15:46:37 INFO  TC001_VerifyLoginWithInvalidCredentials:117 - Enter Phone Number and object is : 155151
+2017-12-31 15:46:37 INFO  TC001_VerifyLoginWithInvalidCredentials:120 - Select gender and object is : [[ChromeDriver: chrome on XP (5de759bfb5e2d50edf13170698f192da)] -> xpath: //*[@id='basicBootstrapForm']/div[5]/div/label[1]/input]
+2017-12-31 15:46:38 INFO  TC001_VerifyLoginWithInvalidCredentials:123 - Select Country and object is : [[ChromeDriver: chrome on XP (5de759bfb5e2d50edf13170698f192da)] -> xpath: //*[@id='countries']/option[@value='India']]
+2017-12-31 15:46:38 INFO  TC001_VerifyLoginWithInvalidCredentials:126 - Select Year and object is : [[ChromeDriver: chrome on XP (5de759bfb5e2d50edf13170698f192da)] -> xpath: //*[@id='yearbox']/option[@value='1992']]
+2017-12-31 15:46:38 INFO  TC001_VerifyLoginWithInvalidCredentials:128 - Select month and object is : [[ChromeDriver: chrome on XP (5de759bfb5e2d50edf13170698f192da)] -> xpath: .//*[@id='basicBootstrapForm']/div[11]/div[2]/select/option[@value='4']]
+2017-12-31 15:46:39 INFO  TC001_VerifyLoginWithInvalidCredentials:130 - Select date and object is : [[ChromeDriver: chrome on XP (5de759bfb5e2d50edf13170698f192da)] -> xpath: //*[@id='daybox']/option[@value='30']]
+2017-12-31 15:46:39 INFO  TC001_VerifyLoginWithInvalidCredentials:134 - Enter paassword and object is : Password@123
+2017-12-31 15:46:40 INFO  TC001_VerifyLoginWithInvalidCredentials:138 - Enter paassword and object is : Password@123
+2017-12-31 15:46:41 INFO  TC001_VerifyLoginWithInvalidCredentials:141 - Submitted and object is : [[ChromeDriver: chrome on XP (5de759bfb5e2d50edf13170698f192da)] -> xpath: //*[@id='submitbtn']]
+2017-12-31 15:46:41 INFO  TC001_VerifyLoginWithInvalidCredentials:147 - Registration resultis - WebTable
+2017-12-31 15:46:41 INFO  TC002_verifyRegistration:33 - ----------------Finished verifyRegistrationSuccess Test-------------------
+2018-01-03 08:29:24 INFO  TC002_verifyRegistration:26 - ----------------Starting verifyLoginWithInvalidCredentials Test-------------------
+2018-01-03 08:29:25 INFO  TC001_VerifyLoginWithInvalidCredentials:102 - Enter First Name and object is : Test
+2018-01-03 08:29:25 INFO  TC001_VerifyLoginWithInvalidCredentials:105 - Enter Last Name and object is : lastName
+2018-01-03 08:29:26 INFO  TC001_VerifyLoginWithInvalidCredentials:109 - Enter Address and object is : address
+2018-01-03 08:29:27 INFO  TC001_VerifyLoginWithInvalidCredentials:113 - Enter Email Address and object is : emailAddress@gmail.com
+2018-01-03 08:29:28 INFO  TC001_VerifyLoginWithInvalidCredentials:117 - Enter Phone Number and object is : 155151
+2018-01-03 08:29:28 INFO  TC001_VerifyLoginWithInvalidCredentials:120 - Select gender and object is : [[ChromeDriver: chrome on XP (c69f31eaaff3588fa3443ad3b7441371)] -> xpath: //*[@id='basicBootstrapForm']/div[5]/div/label[1]/input]
+2018-01-03 08:29:28 INFO  TC001_VerifyLoginWithInvalidCredentials:123 - Select Country and object is : [[ChromeDriver: chrome on XP (c69f31eaaff3588fa3443ad3b7441371)] -> xpath: //*[@id='countries']/option[@value='India']]
+2018-01-03 08:29:29 INFO  TC001_VerifyLoginWithInvalidCredentials:126 - Select Year and object is : [[ChromeDriver: chrome on XP (c69f31eaaff3588fa3443ad3b7441371)] -> xpath: //*[@id='yearbox']/option[@value='1992']]
+2018-01-03 08:29:29 INFO  TC001_VerifyLoginWithInvalidCredentials:128 - Select month and object is : [[ChromeDriver: chrome on XP (c69f31eaaff3588fa3443ad3b7441371)] -> xpath: .//*[@id='basicBootstrapForm']/div[11]/div[2]/select/option[@value='4']]
+2018-01-03 08:29:29 INFO  TC001_VerifyLoginWithInvalidCredentials:130 - Select date and object is : [[ChromeDriver: chrome on XP (c69f31eaaff3588fa3443ad3b7441371)] -> xpath: //*[@id='daybox']/option[@value='30']]
+2018-01-03 08:29:30 INFO  TC001_VerifyLoginWithInvalidCredentials:134 - Enter paassword and object is : Password@123
+2018-01-03 08:29:31 INFO  TC001_VerifyLoginWithInvalidCredentials:138 - Enter paassword and object is : Password@123
+2018-01-03 08:29:31 INFO  TC001_VerifyLoginWithInvalidCredentials:141 - Submitted and object is : [[ChromeDriver: chrome on XP (c69f31eaaff3588fa3443ad3b7441371)] -> xpath: //*[@id='submitbtn']]
+2018-01-03 08:29:32 INFO  TC002_verifyRegistration:33 - ----------------Finished verifyRegistrationSuccess Test-------------------
+2018-01-03 08:31:32 INFO  TC002_verifyRegistration:25 - ----------------Starting verifyLoginWithInvalidCredentials Test-------------------
+2018-01-03 08:31:33 INFO  TC001_VerifyLoginWithInvalidCredentials:102 - Enter First Name and object is : Test
+2018-01-03 08:31:33 INFO  TC001_VerifyLoginWithInvalidCredentials:105 - Enter Last Name and object is : lastName
+2018-01-03 08:31:33 INFO  TC001_VerifyLoginWithInvalidCredentials:109 - Enter Address and object is : address
+2018-01-03 08:31:34 INFO  TC001_VerifyLoginWithInvalidCredentials:113 - Enter Email Address and object is : emailAddress@gmail.com
+2018-01-03 08:31:35 INFO  TC001_VerifyLoginWithInvalidCredentials:117 - Enter Phone Number and object is : 155151
+2018-01-03 08:31:35 INFO  TC001_VerifyLoginWithInvalidCredentials:120 - Select gender and object is : [[ChromeDriver: chrome on XP (1514b0a3b3e1c8fe65dd6099bf9b6fa0)] -> xpath: //*[@id='basicBootstrapForm']/div[5]/div/label[1]/input]
+2018-01-03 08:31:35 INFO  TC001_VerifyLoginWithInvalidCredentials:123 - Select Country and object is : [[ChromeDriver: chrome on XP (1514b0a3b3e1c8fe65dd6099bf9b6fa0)] -> xpath: //*[@id='countries']/option[@value='India']]
+2018-01-03 08:31:35 INFO  TC001_VerifyLoginWithInvalidCredentials:126 - Select Year and object is : [[ChromeDriver: chrome on XP (1514b0a3b3e1c8fe65dd6099bf9b6fa0)] -> xpath: //*[@id='yearbox']/option[@value='1992']]
+2018-01-03 08:31:35 INFO  TC001_VerifyLoginWithInvalidCredentials:128 - Select month and object is : [[ChromeDriver: chrome on XP (1514b0a3b3e1c8fe65dd6099bf9b6fa0)] -> xpath: .//*[@id='basicBootstrapForm']/div[11]/div[2]/select/option[@value='4']]
+2018-01-03 08:31:36 INFO  TC001_VerifyLoginWithInvalidCredentials:130 - Select date and object is : [[ChromeDriver: chrome on XP (1514b0a3b3e1c8fe65dd6099bf9b6fa0)] -> xpath: //*[@id='daybox']/option[@value='30']]
+2018-01-03 08:31:36 INFO  TC001_VerifyLoginWithInvalidCredentials:134 - Enter paassword and object is : Password@123
+2018-01-03 08:31:36 INFO  TC001_VerifyLoginWithInvalidCredentials:138 - Enter paassword and object is : Password@123
+2018-01-03 08:31:37 INFO  TC001_VerifyLoginWithInvalidCredentials:141 - Submitted and object is : [[ChromeDriver: chrome on XP (1514b0a3b3e1c8fe65dd6099bf9b6fa0)] -> xpath: //*[@id='submitbtn']]
+2018-01-03 09:02:20 INFO  TC002_verifyRegistration:25 - ----------------Starting verifyLoginWithInvalidCredentials Test-------------------
+2018-01-03 09:02:21 INFO  TC001_VerifyLoginWithInvalidCredentials:102 - Enter First Name and object is : Test
+2018-01-03 09:02:22 INFO  TC001_VerifyLoginWithInvalidCredentials:105 - Enter Last Name and object is : lastName
+2018-01-03 09:02:23 INFO  TC001_VerifyLoginWithInvalidCredentials:109 - Enter Address and object is : address
+2018-01-03 09:02:23 INFO  TC001_VerifyLoginWithInvalidCredentials:113 - Enter Email Address and object is : emailAddress@gmail.com
+2018-01-03 09:02:23 INFO  TC001_VerifyLoginWithInvalidCredentials:117 - Enter Phone Number and object is : 155151
+2018-01-03 09:02:24 INFO  TC001_VerifyLoginWithInvalidCredentials:120 - Select gender and object is : [[FirefoxDriver: firefox on XP (d28b2442-60ed-43c4-809b-fbe8572ba6a5)] -> xpath: //*[@id='basicBootstrapForm']/div[5]/div/label[1]/input]
+2018-01-03 09:02:24 INFO  TC001_VerifyLoginWithInvalidCredentials:123 - Select Country and object is : [[FirefoxDriver: firefox on XP (d28b2442-60ed-43c4-809b-fbe8572ba6a5)] -> xpath: //*[@id='countries']/option[@value='India']]
+2018-01-03 09:02:24 INFO  TC001_VerifyLoginWithInvalidCredentials:126 - Select Year and object is : [[FirefoxDriver: firefox on XP (d28b2442-60ed-43c4-809b-fbe8572ba6a5)] -> xpath: //*[@id='yearbox']/option[@value='1992']]
+2018-01-03 09:02:25 INFO  TC001_VerifyLoginWithInvalidCredentials:128 - Select month and object is : [[FirefoxDriver: firefox on XP (d28b2442-60ed-43c4-809b-fbe8572ba6a5)] -> xpath: .//*[@id='basicBootstrapForm']/div[11]/div[2]/select/option[@value='4']]
+2018-01-03 09:02:25 INFO  TC001_VerifyLoginWithInvalidCredentials:130 - Select date and object is : [[FirefoxDriver: firefox on XP (d28b2442-60ed-43c4-809b-fbe8572ba6a5)] -> xpath: //*[@id='daybox']/option[@value='30']]
+2018-01-03 09:02:25 INFO  TC001_VerifyLoginWithInvalidCredentials:134 - Enter paassword and object is : Password@123
+2018-01-03 09:02:26 INFO  TC001_VerifyLoginWithInvalidCredentials:138 - Enter paassword and object is : Password@123
+2018-01-03 09:02:26 INFO  TC001_VerifyLoginWithInvalidCredentials:141 - Submitted and object is : [[FirefoxDriver: firefox on XP (d28b2442-60ed-43c4-809b-fbe8572ba6a5)] -> xpath: //*[@id='submitbtn']]
+2018-01-03 09:02:26 INFO  TC002_verifyRegistration:30 - ----------------Finished verifyRegistrationSuccess Test-------------------
+2018-01-03 09:06:22 INFO  TC002_verifyRegistration:25 - ----------------Starting verifyLoginWithInvalidCredentials Test-------------------
+2018-01-03 09:06:22 INFO  TC001_VerifyLoginWithInvalidCredentials:102 - Enter First Name and object is : Test
+2018-01-03 09:06:22 INFO  TC001_VerifyLoginWithInvalidCredentials:105 - Enter Last Name and object is : lastName
+2018-01-03 09:06:23 INFO  TC001_VerifyLoginWithInvalidCredentials:109 - Enter Address and object is : address
+2018-01-03 09:06:23 INFO  TC001_VerifyLoginWithInvalidCredentials:113 - Enter Email Address and object is : emailAddress@gmail.com
+2018-01-03 09:06:23 INFO  TC001_VerifyLoginWithInvalidCredentials:117 - Enter Phone Number and object is : 155151
+2018-01-03 09:06:24 INFO  TC001_VerifyLoginWithInvalidCredentials:120 - Select gender and object is : [[FirefoxDriver: firefox on XP (97bc7c09-1b42-44ed-aefc-4961704b41f0)] -> xpath: //*[@id='basicBootstrapForm']/div[5]/div/label[1]/input]
+2018-01-03 09:06:24 INFO  TC001_VerifyLoginWithInvalidCredentials:123 - Select Country and object is : [[FirefoxDriver: firefox on XP (97bc7c09-1b42-44ed-aefc-4961704b41f0)] -> xpath: //*[@id='countries']/option[@value='India']]
+2018-01-03 09:06:24 INFO  TC001_VerifyLoginWithInvalidCredentials:126 - Select Year and object is : [[FirefoxDriver: firefox on XP (97bc7c09-1b42-44ed-aefc-4961704b41f0)] -> xpath: //*[@id='yearbox']/option[@value='1992']]
+2018-01-03 09:06:25 INFO  TC001_VerifyLoginWithInvalidCredentials:128 - Select month and object is : [[FirefoxDriver: firefox on XP (97bc7c09-1b42-44ed-aefc-4961704b41f0)] -> xpath: .//*[@id='basicBootstrapForm']/div[11]/div[2]/select/option[@value='4']]
+2018-01-03 09:06:25 INFO  TC001_VerifyLoginWithInvalidCredentials:130 - Select date and object is : [[FirefoxDriver: firefox on XP (97bc7c09-1b42-44ed-aefc-4961704b41f0)] -> xpath: //*[@id='daybox']/option[@value='30']]
+2018-01-03 09:06:25 INFO  TC001_VerifyLoginWithInvalidCredentials:134 - Enter paassword and object is : Password@123
+2018-01-03 09:06:26 INFO  TC001_VerifyLoginWithInvalidCredentials:138 - Enter paassword and object is : Password@123
+2018-01-03 09:06:26 INFO  TC001_VerifyLoginWithInvalidCredentials:141 - Submitted and object is : [[FirefoxDriver: firefox on XP (97bc7c09-1b42-44ed-aefc-4961704b41f0)] -> xpath: //*[@id='submitbtn']]
+2018-01-03 09:06:26 INFO  TC002_verifyRegistration:30 - ----------------Finished verifyRegistrationSuccess Test-------------------
+2018-01-04 09:16:22 INFO  TC001_VerifyLoginWithInvalidCredentials:85 - Clicked on sign in and object is : [[FirefoxDriver: firefox on XP (bee3b41c-0cd3-45dc-befa-7e0f670cf879)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-01-04 09:16:22 INFO  TC001_VerifyLoginWithInvalidCredentials:87 - Enter email address nayan and object is : [[FirefoxDriver: firefox on XP (bee3b41c-0cd3-45dc-befa-7e0f670cf879)] -> xpath: .//*[@id='email']]
+2018-01-04 09:16:24 INFO  TC001_VerifyLoginWithInvalidCredentials:89 - Enter passwordagrawal and object is : [[FirefoxDriver: firefox on XP (bee3b41c-0cd3-45dc-befa-7e0f670cf879)] -> xpath: .//*[@id='passwd']]
+2018-01-04 09:16:26 INFO  TC001_VerifyLoginWithInvalidCredentials:91 - Clicked on submit button and the object is : [[FirefoxDriver: firefox on XP (bee3b41c-0cd3-45dc-befa-7e0f670cf879)] -> id: SubmitLogin]
+2018-01-04 09:16:28 INFO  TC001_VerifyLoginWithInvalidCredentials:85 - Clicked on sign in and object is : [[FirefoxDriver: firefox on XP (bee3b41c-0cd3-45dc-befa-7e0f670cf879)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-01-04 09:16:28 INFO  TC001_VerifyLoginWithInvalidCredentials:87 - Enter email address nayan_01 and object is : [[FirefoxDriver: firefox on XP (bee3b41c-0cd3-45dc-befa-7e0f670cf879)] -> xpath: .//*[@id='email']]
+2018-01-04 09:16:29 INFO  TC001_VerifyLoginWithInvalidCredentials:89 - Enter passwordqwq_02 and object is : [[FirefoxDriver: firefox on XP (bee3b41c-0cd3-45dc-befa-7e0f670cf879)] -> xpath: .//*[@id='passwd']]
+2018-01-04 09:16:31 INFO  TC001_VerifyLoginWithInvalidCredentials:91 - Clicked on submit button and the object is : [[FirefoxDriver: firefox on XP (bee3b41c-0cd3-45dc-befa-7e0f670cf879)] -> id: SubmitLogin]
+2018-01-04 09:18:22 INFO  TC001_VerifyLoginWithInvalidCredentials:85 - Clicked on sign in and object is : [[FirefoxDriver: firefox on XP (3d3c1a5b-b46a-4c1a-8403-0e9035fb6039)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-01-04 09:18:23 INFO  TC001_VerifyLoginWithInvalidCredentials:87 - Enter email address nayan and object is : [[FirefoxDriver: firefox on XP (3d3c1a5b-b46a-4c1a-8403-0e9035fb6039)] -> xpath: .//*[@id='email']]
+2018-01-04 09:18:24 INFO  TC001_VerifyLoginWithInvalidCredentials:89 - Enter passwordagrawal and object is : [[FirefoxDriver: firefox on XP (3d3c1a5b-b46a-4c1a-8403-0e9035fb6039)] -> xpath: .//*[@id='passwd']]
+2018-01-04 09:18:26 INFO  TC001_VerifyLoginWithInvalidCredentials:91 - Clicked on submit button and the object is : [[FirefoxDriver: firefox on XP (3d3c1a5b-b46a-4c1a-8403-0e9035fb6039)] -> id: SubmitLogin]
+2018-01-04 09:28:48 INFO  TC001_VerifyLoginWithInvalidCredentials:85 - Clicked on sign in and object is : [[FirefoxDriver: firefox on XP (cc91ff96-c630-48aa-afdd-ba2ae816a686)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-01-04 09:28:48 INFO  TC001_VerifyLoginWithInvalidCredentials:87 - Enter email address nayan and object is : [[FirefoxDriver: firefox on XP (cc91ff96-c630-48aa-afdd-ba2ae816a686)] -> xpath: .//*[@id='email']]
+2018-01-04 09:28:49 INFO  TC001_VerifyLoginWithInvalidCredentials:89 - Enter passwordagrawal and object is : [[FirefoxDriver: firefox on XP (cc91ff96-c630-48aa-afdd-ba2ae816a686)] -> xpath: .//*[@id='passwd']]
+2018-01-04 09:28:51 INFO  TC001_VerifyLoginWithInvalidCredentials:91 - Clicked on submit button and the object is : [[FirefoxDriver: firefox on XP (cc91ff96-c630-48aa-afdd-ba2ae816a686)] -> id: SubmitLogin]
+2018-01-04 09:29:35 INFO  TC001_VerifyLoginWithInvalidCredentials:85 - Clicked on sign in and object is : [[FirefoxDriver: firefox on XP (4688d6f1-9b68-4768-95ee-92831a086fe0)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-01-04 09:29:35 INFO  TC001_VerifyLoginWithInvalidCredentials:87 - Enter email address nayan and object is : [[FirefoxDriver: firefox on XP (4688d6f1-9b68-4768-95ee-92831a086fe0)] -> xpath: .//*[@id='email']]
+2018-01-04 09:29:36 INFO  TC001_VerifyLoginWithInvalidCredentials:89 - Enter passwordagrawal and object is : [[FirefoxDriver: firefox on XP (4688d6f1-9b68-4768-95ee-92831a086fe0)] -> xpath: .//*[@id='passwd']]
+2018-01-04 09:29:39 INFO  TC001_VerifyLoginWithInvalidCredentials:91 - Clicked on submit button and the object is : [[FirefoxDriver: firefox on XP (4688d6f1-9b68-4768-95ee-92831a086fe0)] -> id: SubmitLogin]
+2018-01-06 14:17:30 INFO  TC001_VerifyLoginWithInvalidCredentials:85 - Clicked on sign in and object is : [[ChromeDriver: chrome on XP (b91f01fa434e320886e9711388b1867a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-01-06 14:17:30 INFO  TC001_VerifyLoginWithInvalidCredentials:87 - Enter email address nayan and object is : [[ChromeDriver: chrome on XP (b91f01fa434e320886e9711388b1867a)] -> xpath: .//*[@id='email']]
+2018-01-06 14:17:31 INFO  TC001_VerifyLoginWithInvalidCredentials:89 - Enter passwordagrawal and object is : [[ChromeDriver: chrome on XP (b91f01fa434e320886e9711388b1867a)] -> xpath: .//*[@id='passwd']]
+2018-01-06 14:17:33 INFO  TC001_VerifyLoginWithInvalidCredentials:91 - Clicked on submit button and the object is : [[ChromeDriver: chrome on XP (b91f01fa434e320886e9711388b1867a)] -> id: SubmitLogin]
